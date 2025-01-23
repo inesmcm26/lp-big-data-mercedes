@@ -21,7 +21,7 @@ This collection of modules is designed to help you learn how to work with Big Da
 
 4. **Final Project**
 
-    To be determined.
+    Final project that combines all the concepts learned in the previous modules to analyze a real-world dataset using PySpark. The dataset is the [Google Analytics Sample dataset](https://console.cloud.google.com/marketplace/product/obfuscated-ga360-data/obfuscated-ga360-data?inv=1&invt=AbmlmQ), which contains real data from the [Google Merchandise Store](https://shop.googlemerchandisestore.com/), a real ecommerce store that sells Google-branded merchandise. The project is divided into three parts: data understanding, cleaning and analysis; advanced analytics; and sequential analysis.
 
 
 ## Running Notebooks in Databricks Community Edition
@@ -35,18 +35,21 @@ These notebooks are expected to be run in the **Databricks Community Edition**. 
 - **Week 1:** Big data and Spark + Databricks environment
 - **Week 2:** PySpark RDDs
 
-### Weeks 3-5 (~6 hours): PySpark DataFrames Module
+### Weeks 3-6 (~8 hours): PySpark DataFrames Module
 
 - **Week 3:** PySpark for Data Preprocessing
 - **Week 4:** PySpark for Data Analytics Part 1
 - **Week 5:** PySpark for Data Analytics Part 2
+- **Week 6:** Exercises only
 
-### Weeks 6-8 (~6 hours): PySpark Advanced Module
+### Weeks 7-9 (~6 hours): PySpark Advanced Module
 
 - **Week 6:** Window Function
 - **Week 7:** Complex Data Types
 - **Week 8:** UDFs
 
-### Weeks 9 and 10 (~4 hours): Final Project
+### Weeks 10-12 (~6 hours): Final Project
 
-### Weeks 11 and 12: To be determined
+- **Week 10:** Project Kickoff: Part1 - Data Understanding, Cleaning and Analysis
+- **Week 11:** Part2 - Advanced Analytics
+- **Week 12:** Part3 - Sequential Analysis
